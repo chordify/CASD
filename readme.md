@@ -79,12 +79,18 @@ we asked the annotators to provide for each song a difficulty rating on a scale
 of 1 (easy) to 5 (hard), the amount of time it took them to annotate the song in
 minutes, and any remarks they might have on the transcription process.
 
+## Further Information
+
+The *Chordify Annotator Subjectivity Dataset* was introduced at the late breaking session at the [18th International Society for Music Information Retrieval Conference](https://ismir2017.smcnus.org/). For more information about the CASD and annotator subjectivity in this dataset, please find the poster and extended abstract below.
+
+[![Poster](img/ISMIR2017_LBposter.png)](img/ISMIR2017_LBposter.pdf)
+[![Abstract](img/ISMIR2017_LBD.png)](https://ismir2017.smcnus.org/lbds/Koops2017.pdf)
 
 ## Authors
 
 * **Hendrik Vincent Koops** - [Utrecht University](https://scholar.google.nl/citations?user=rzqMKygAAAAJ&hl)
-* **W. Bas de Haas** - [Chordify](https://www.chordify.net)
-* **Jeroen Bransen** - [Chordify](https://www.chordify.net)
+* **W. Bas de Haas** - [Chordify](https://chordify.net)
+* **Jeroen Bransen** - [Chordify](https://chordify.net)
 * **John Ashley Burgoyne** - [University of Amsterdam](http://www.uva.nl/profiel/b/u/j.a.burgoyne/j.a.burgoyne.html)
 * **Anja Volk** - [Utrecht University](http://www.staff.science.uu.nl/~fleis102/)
 
