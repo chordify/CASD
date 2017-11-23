@@ -44,6 +44,25 @@ We find that within the CASD, annotators disagree about chord labels. The next f
 
 This figure shows the [*chromagram*](https://en.wikipedia.org/wiki/Chroma_feature) of the annotators for song 92 in the dataset. The horizontal axis represents time, the vertical axis represents the 12 pitch classes of a single octave. The figure shows that the annotators differ in level of detail in time, as well as in pitch classes per chord. This figure was generated with [this script](misc/plot_chromas.py).
 
+### Technical Report on Annotator Subjectivity
+
+If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please find our [technical report](http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf): *"Harmonic Subjectivity in Popular Music"*. 
+See the [Utrecht University website](http://www.cs.uu.nl/research/techreps/UU-CS-2017-018.html) for more information.
+
+If you want to cite this technical report, please use the following bibtex entry:
+
+`@TECHREPORT{UUCS2017018,
+author = {Koops, Hendrik~Vincent and Haas, Bas~de and Burgoyne, John~Ashley and Bransen, Jeroen and Volk, Anja},
+year = 2017,
+title = {Harmonic Subjectivity in Popular Music},
+number = {UU-CS-2017-018},
+institution = {Department of Information and Computing Sciences, Utrecht University},
+urlpdf = {{http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf}},
+pubcat = {techreport}
+}
+`
+
+A formal publication based on this technical report is underway.
 
 ## Contributing
 
