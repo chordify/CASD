@@ -46,7 +46,10 @@ This figure shows the [*chromagram*](https://en.wikipedia.org/wiki/Chroma_featur
 
 ### Technical Report on Annotator Subjectivity
 
-If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please find our [technical report](http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf): *"Harmonic Subjectivity in Popular Music"*. 
+If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please find our technical report: 
+
+Koops, H.V., de Haas, W.B., Burgoyne, J.A., Bransen, J., Volk, A.: [*"Technical Report: Harmonic Subjectivity in Popular Music."*](http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf) Tech. Rep. UU-CS-2017-018, Department of Information and Computing Sciences, Utrecht University (2017)
+
 See the [Utrecht University website](http://www.cs.uu.nl/research/techreps/UU-CS-2017-018.html) for more information.
 
 If you want to cite this technical report, please use the following bibtex entry:
