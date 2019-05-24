@@ -44,7 +44,7 @@ We find that within the CASD, annotators disagree about chord labels. The next f
 
 This figure shows the [*chromagram*](https://en.wikipedia.org/wiki/Chroma_feature) of the annotators for song 92 in the dataset. The horizontal axis represents time, the vertical axis represents the 12 pitch classes of a single octave. The figure shows that the annotators differ in level of detail in time, as well as in pitch classes per chord. This figure was generated with [this script](misc/plot_chromas.py).
 
-### Technical Report on Annotator Subjectivity
+### Research on Annotator Subjectivity
 
 If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please refer to our publication in the *Journal of New Music Research*: 
 
