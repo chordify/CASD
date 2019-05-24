@@ -108,6 +108,12 @@ The *Chordify Annotator Subjectivity Dataset* was introduced at the late breakin
 [![Poster](img/ISMIR2017_LBposter.png)](img/ISMIR2017_LBposter.pdf)
 [![Abstract](img/ISMIR2017_LBD.png)](https://ismir2017.smcnus.org/lbds/Koops2017.pdf)
 
+### Journal paper
+
+In a paper published in the [*Journal of New Music Research*](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436), we provide background information and a statistical analysis of annotator subjectivity in the CASD:
+
+[[JNMR](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/nnmr20/2019/nnmr20.v048.i02/nnmr20.v048.i02/20190301-01/nnmr20.v048.i02.cover.jpg)](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436)
+
 ## Authors
 
 * **Hendrik Vincent Koops** - [Utrecht University](https://scholar.google.nl/citations?user=rzqMKygAAAAJ&hl)
