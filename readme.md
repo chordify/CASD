@@ -50,25 +50,7 @@ If you are interested in a detailed analysis of the annotator subjectivity found
 
 Koops, H.V., de Haas, W.B., Burgoyne, J.A., Bransen, J., Kent-Muller, A., Volk, A. (2019) [Annotator subjectivity in harmony annotations of popular music](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436), *Journal of New Music Research*, DOI: 10.1080/09298215.2019.1613436
 
-If you want to cite this technical report, please use the following bibtex entry:
-
-`
-@article{doi:10.1080/09298215.2019.1613436,
-author = {Hendrik Vincent Koops and W. Bas de Haas and John Ashley Burgoyne and Jeroen Bransen and Anna Kent-Muller and Anja Volk},
-title = {Annotator subjectivity in harmony annotations of popular music},
-journal = {Journal of New Music Research},
-volume = {0},
-number = {0},
-pages = {1-21},
-year  = {2019},
-publisher = {Routledge},
-doi = {10.1080/09298215.2019.1613436},
-URL = {https://doi.org/10.1080/09298215.2019.1613436},
-eprint = {https://doi.org/10.1080/09298215.2019.1613436}
-}
-`
-
-A formal publication based on this technical report is underway.
+Please cite this publication if you use the CASD in your research.
 
 ## Contributing
 
