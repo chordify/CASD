@@ -46,22 +46,25 @@ This figure shows the [*chromagram*](https://en.wikipedia.org/wiki/Chroma_featur
 
 ### Technical Report on Annotator Subjectivity
 
-If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please find our technical report: 
+If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please refer to our publication in the *Journal of New Music Research*: 
 
-Koops, H.V., de Haas, W.B., Burgoyne, J.A., Bransen, J., Volk, A.: [*"Technical Report: Harmonic Subjectivity in Popular Music."*](http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf) Tech. Rep. UU-CS-2017-018, Department of Information and Computing Sciences, Utrecht University (2017)
-
-See the [Utrecht University website](http://www.cs.uu.nl/research/techreps/UU-CS-2017-018.html) for more information.
+Koops, H.V., de Haas, W.B., Burgoyne, J.A., Bransen, J., Kent-Muller, A., Volk, A. (2019) [Annotator subjectivity in harmony annotations of popular music](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436), *Journal of New Music Research*, DOI: 10.1080/09298215.2019.1613436
 
 If you want to cite this technical report, please use the following bibtex entry:
 
-`@TECHREPORT{UUCS2017018,
-author = {Koops, Hendrik~Vincent and Haas, Bas~de and Burgoyne, John~Ashley and Bransen, Jeroen and Volk, Anja},
-year = 2017,
-title = {Harmonic Subjectivity in Popular Music},
-number = {UU-CS-2017-018},
-institution = {Department of Information and Computing Sciences, Utrecht University},
-urlpdf = {{http://www.cs.uu.nl/research/techreps/repo/CS-2017/2017-018.pdf}},
-pubcat = {techreport}
+`
+@article{doi:10.1080/09298215.2019.1613436,
+author = {Hendrik Vincent Koops and W. Bas de Haas and John Ashley Burgoyne and Jeroen Bransen and Anna Kent-Muller and Anja Volk},
+title = {Annotator subjectivity in harmony annotations of popular music},
+journal = {Journal of New Music Research},
+volume = {0},
+number = {0},
+pages = {1-21},
+year  = {2019},
+publisher = {Routledge},
+doi = {10.1080/09298215.2019.1613436},
+URL = {https://doi.org/10.1080/09298215.2019.1613436},
+eprint = {https://doi.org/10.1080/09298215.2019.1613436}
 }
 `
 
