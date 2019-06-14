@@ -48,7 +48,23 @@ This figure shows the [*chromagram*](https://en.wikipedia.org/wiki/Chroma_featur
 
 If you are interested in a detailed analysis of the annotator subjectivity found in the CASD, please refer to our publication in the *Journal of New Music Research*: 
 
-Koops, H.V., de Haas, W.B., Burgoyne, J.A., Bransen, J., Kent-Muller, A., Volk, A. (2019) [Annotator subjectivity in harmony annotations of popular music](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436), *Journal of New Music Research*, DOI: 10.1080/09298215.2019.1613436
+Hendrik Vincent Koops, W. Bas de Haas, John Ashley Burgoyne, Jeroen Bransen, Anna Kent-Muller & Anja Volk (2019) [Annotator subjectivity in harmony annotations of popular music](https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1613436), *Journal of New Music Research*, 48:3, 232-252, DOI: 10.1080/09298215.2019.1613436
+
+```tex
+@article{doi:10.1080/09298215.2019.1613436,
+author = {Hendrik Vincent Koops and W. Bas de Haas and John Ashley Burgoyne and Jeroen Bransen and Anna Kent-Muller and Anja Volk},
+title = {Annotator subjectivity in harmony annotations of popular music},
+journal = {Journal of New Music Research},
+volume = {48},
+number = {3},
+pages = {232-252},
+year  = {2019},
+publisher = {Routledge},
+doi = {10.1080/09298215.2019.1613436},
+URL = {https://doi.org/10.1080/09298215.2019.1613436},
+eprint = {https://doi.org/10.1080/09298215.2019.1613436}
+}
+```
 
 Please cite this publication if you use the CASD in your research.
 
